@@ -1,5 +1,6 @@
+% semnal dreptunghiular /nr. de ordine impar
 T = 40;
-D = 1;
+D = 3;% nr. de ordine din tabel
 dutyCicle = 42.5;
 w0 = 2 * pi / T;
 N = 50;
